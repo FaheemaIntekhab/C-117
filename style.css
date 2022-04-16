@@ -1,0 +1,19 @@
+body
+{
+    background-color:crimson;
+    color:white;
+}
+
+#scored
+{
+    font-size:large;
+    float:left;
+    margin-left: 100px;
+}
+
+#timer
+{
+    font-size:large;
+    float:right;
+    margin-right:100px;
+}
